@@ -6,6 +6,7 @@ Here we are keeping various scripts that may be usefull. README.md contains a li
 
 
 1. preview_pade_add.ps1 - adds file type to the windows explorer preview pane. Mostly for windows 10. 
+2. earnperks.ps1 - restarts browser window every 30 minutes to prevent flash crashes.
 
 
 **Python**
